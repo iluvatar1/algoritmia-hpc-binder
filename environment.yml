@@ -1,0 +1,17 @@
+name: alg-hpc
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - jupyterlab
+  - ipython
+  - notebook
+  - numpy
+  - matplotlib
+  - seaborn
+  - bokeh
+  - pip:
+    - RISE
+    - jupyter_contrib_nbextensions
+    - autopep8
