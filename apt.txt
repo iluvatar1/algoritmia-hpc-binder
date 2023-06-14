@@ -2,3 +2,7 @@ git
 openmpi-bin
 openmpi-common
 libopenmpi-dev
+htop
+tmux
+slurmd
+slurmctld
