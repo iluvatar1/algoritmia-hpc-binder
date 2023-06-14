@@ -1,1 +1,4 @@
 git
+openmpi-bin
+openmpi-common
+libopenmpi-dev
