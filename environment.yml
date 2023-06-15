@@ -16,3 +16,5 @@ dependencies:
     - RISE
     - jupyter_contrib_nbextensions
     - autopep8
+    - jupyter-collaboration
+    - jupyterlab-link-share
